@@ -6,23 +6,7 @@
 <br><br>
 
 <h3><code>hardik@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./thehaardik-ascii.svg" width="370" /></td>
-    <td valign="top"><img src="./thehaardik-info-card.svg" width="490" /></td>
-  </tr>
-</table>
-
-<br>
-
-<code>hardik@github ~ $ cat /etc/motd</code>
-
-```
-Senior Technical Program Manager | Fintech & Payments
-Building banking infrastructure that moves money smarter.
-7+ banking integrations | Card issuance | Reconciliation | AI automation.
-Currently making treasury operations frictionless at Kodo.
-```
+<img src="./thehaardik-whoami.svg" width="860" />
 
 <br>
 
