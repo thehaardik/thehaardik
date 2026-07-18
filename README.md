@@ -1,39 +1,97 @@
 <div align="center">
 
-<h3><code>hardik@github ~ $ whoami</code></h3>
-<img src="./thehaardik-whoami.svg" width="860" />
+<img src="./thehaardik-header.svg" width="860" />
 
 <br>
 
-<code>hardik@github ~ $ ls ~/projects</code>
+### `ls ~/projects`
 
-| Project | Description |
-|---------|-------------|
-| [api-runner](https://github.com/thehaardik/api-runner) | Postman-style bulk API runner — paste cURL, upload CSV/JSON, execute in batch |
-| [key-certificate-matcher](https://github.com/thehaardik/key-certificate-matcher) | Match private keys with certificates for TLS/API auth |
-| [jwt-decoder](https://github.com/thehaardik/jwt-decoder) | Decode and inspect JWT tokens |
-| [curl-converter](https://github.com/thehaardik/curl-converter) | Convert cURL commands to code in any language |
-| [json-formatter](https://github.com/thehaardik/json-formatter) | Format and validate JSON instantly |
-| [regex-tester](https://github.com/thehaardik/regex-tester) | Test regex patterns with live matching |
-| [hash-generator](https://github.com/thehaardik/hash-generator) | Generate MD5, SHA-1, SHA-256 hashes |
-| [base64-tool](https://github.com/thehaardik/base64-tool) | Encode/decode Base64 strings |
-| [url-encoder](https://github.com/thehaardik/url-encoder) | Encode/decode URLs and query parameters |
-| [color-converter](https://github.com/thehaardik/color-converter) | Convert between HEX, RGB, HSL color formats |
-| [cron-builder](https://github.com/thehaardik/cron-builder) | Build cron expressions visually |
+<table>
+<tr>
+<td width="50%">
+
+**[api-runner](https://github.com/thehaardik/api-runner)**
+Postman-style bulk API runner — paste cURL, upload CSV/JSON, execute in batch
+
+</td>
+<td width="50%">
+
+**[key-certificate-matcher](https://github.com/thehaardik/key-certificate-matcher)**
+Match private keys with certificates for TLS/API authentication
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[jwt-decoder](https://github.com/thehaardik/jwt-decoder)**
+Decode and inspect JWT tokens
+
+</td>
+<td>
+
+**[curl-converter](https://github.com/thehaardik/curl-converter)**
+Convert cURL commands to code in any language
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[json-formatter](https://github.com/thehaardik/json-formatter)**
+Format and validate JSON instantly
+
+</td>
+<td>
+
+**[regex-tester](https://github.com/thehaardik/regex-tester)**
+Test regex patterns with live matching
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[hash-generator](https://github.com/thehaardik/hash-generator)**
+Generate MD5, SHA-1, SHA-256 hashes
+
+</td>
+<td>
+
+**[base64-tool](https://github.com/thehaardik/base64-tool)**
+Encode and decode Base64 strings
+
+</td>
+</tr>
+<tr>
+<td>
+
+**[url-encoder](https://github.com/thehaardik/url-encoder)**
+Encode and decode URLs and query parameters
+
+</td>
+<td>
+
+**[color-converter](https://github.com/thehaardik/color-converter)**
+Convert between HEX, RGB, HSL color formats
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**[cron-builder](https://github.com/thehaardik/cron-builder)**
+Build cron expressions visually
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<code>hardik@github ~ $ echo $CONTACT</code>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikmiglani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okayhardik@gmail.com)
-
-<br>
-
-<code>hardik@github ~ $ uptime</code>
-
-```
-  😴 sleeping is a crime when there's code to write
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikmiglani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:okayhardik@gmail.com)
 
 </div>
