@@ -1,10 +1,5 @@
 <div align="center">
 
-<h3><code>hardik@github ~ $ ./contributions.sh</code></h3>
-<img src="./thehaardik-contrib-heatmap.svg" width="860" />
-
-<br><br>
-
 <h3><code>hardik@github ~ $ whoami</code></h3>
 <img src="./thehaardik-whoami.svg" width="860" />
 
@@ -32,7 +27,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hardikmiglani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okayhardik@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hardikmiglani.dev)
 
 <br>
 
