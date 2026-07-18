@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 120" width="860" height="120">
-<rect width="860" height="120" rx="6" fill="#0a0e14"/>
-<rect x="0.5" y="0.5" width="859" height="119" rx="6" fill="none" stroke="#1a2332"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 90" width="860" height="90">
+<rect width="860" height="90" rx="6" fill="#0a0e14"/>
+<rect x="0.5" y="0.5" width="859" height="89" rx="6" fill="none" stroke="#1a2332"/>
 
 <!-- Top accent -->
 <rect x="0" y="0" width="860" height="1" fill="#00ff88" opacity="0.3"/>
@@ -9,8 +9,8 @@
 <g stroke="#00ff88" stroke-width="1.5" fill="none" opacity="0.4">
   <path d="M15,15 L15,40 M15,15 L40,15"/>
   <path d="M845,15 L845,40 M845,15 L820,15"/>
-  <path d="M15,105 L15,80 M15,105 L40,105"/>
-  <path d="M845,105 L845,80 M845,105 L820,105"/>
+  <path d="M15,75 L15,55 M15,75 L40,75"/>
+  <path d="M845,75 L845,55 M845,75 L820,75"/>
 </g>
 
 <!-- Label -->
