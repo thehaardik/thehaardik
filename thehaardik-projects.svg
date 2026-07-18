@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380" width="860" height="380">
-<rect width="860" height="380" rx="6" fill="#0a0e14"/>
-<rect x="0.5" y="0.5" width="859" height="379" rx="6" fill="none" stroke="#1a2332"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" width="860" height="420">
+<rect width="860" height="420" rx="6" fill="#0a0e14"/>
+<rect x="0.5" y="0.5" width="859" height="419" rx="6" fill="none" stroke="#1a2332"/>
 
 <!-- Grid -->
 <g opacity="0.04" stroke="#00ff88" stroke-width="0.3">
   <line x1="0" y1="60" x2="860" y2="60"/><line x1="0" y1="120" x2="860" y2="120"/>
   <line x1="0" y1="180" x2="860" y2="180"/><line x1="0" y1="240" x2="860" y2="240"/>
   <line x1="0" y1="300" x2="860" y2="300"/><line x1="0" y1="360" x2="860" y2="360"/>
-  <line x1="200" y1="0" x2="200" y2="380"/><line x1="430" y1="0" x2="430" y2="380"/>
-  <line x1="660" y1="0" x2="660" y2="380"/>
+  <line x1="200" y1="0" x2="200" y2="420"/><line x1="430" y1="0" x2="430" y2="420"/>
+  <line x1="660" y1="0" x2="660" y2="420"/>
 </g>
 
 <!-- Scan -->
 <g opacity="0.08">
-  <animateTransform attributeName="transform" type="translate" values="0 -10;0 390" dur="5s" repeatCount="indefinite"/>
+  <animateTransform attributeName="transform" type="translate" values="0 -10;0 430" dur="5s" repeatCount="indefinite"/>
   <rect x="0" y="0" width="860" height="1" fill="#00ff88"/>
 </g>
 
@@ -21,8 +21,8 @@
 <g stroke="#00ff88" stroke-width="1.5" fill="none" opacity="0.4">
   <path d="M15,15 L15,40 M15,15 L40,15"/>
   <path d="M845,15 L845,40 M845,15 L820,15"/>
-  <path d="M15,365 L15,340 M15,365 L40,365"/>
-  <path d="M845,365 L845,340 M845,365 L820,365"/>
+  <path d="M15,405 L15,380 M15,405 L40,405"/>
+  <path d="M845,405 L845,380 M845,405 L820,405"/>
 </g>
 
 <!-- Title -->
