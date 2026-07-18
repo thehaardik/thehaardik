@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 380" width="860" height="380">
+<rect width="860" height="380" rx="6" fill="#0a0e14"/>
+<rect x="0.5" y="0.5" width="859" height="379" rx="6" fill="none" stroke="#1a2332"/>
+
+<!-- Grid -->
+<g opacity="0.04" stroke="#00ff88" stroke-width="0.3">
+  <line x1="0" y1="60" x2="860" y2="60"/><line x1="0" y1="120" x2="860" y2="120"/>
+  <line x1="0" y1="180" x2="860" y2="180"/><line x1="0" y1="240" x2="860" y2="240"/>
+  <line x1="0" y1="300" x2="860" y2="300"/><line x1="0" y1="360" x2="860" y2="360"/>
+  <line x1="200" y1="0" x2="200" y2="380"/><line x1="430" y1="0" x2="430" y2="380"/>
+  <line x1="660" y1="0" x2="660" y2="380"/>
+</g>
+
+<!-- Scan -->
+<g opacity="0.08">
+  <animateTransform attributeName="transform" type="translate" values="0 -10;0 390" dur="5s" repeatCount="indefinite"/>
+  <rect x="0" y="0" width="860" height="1" fill="#00ff88"/>
+</g>
+
+<!-- Corner brackets -->
+<g stroke="#00ff88" stroke-width="1.5" fill="none" opacity="0.4">
+  <path d="M15,15 L15,40 M15,15 L40,15"/>
+  <path d="M845,15 L845,40 M845,15 L820,15"/>
+  <path d="M15,365 L15,340 M15,365 L40,365"/>
+  <path d="M845,365 L845,340 M845,365 L820,365"/>
+</g>
+
+<!-- Title -->
+<text x="60" y="45" font-size="11" fill="#484f58" font-family="monospace" letter-spacing="2" opacity="0">
+  ls ~/projects
+  <animate attributeName="opacity" from="0" to="0.6" dur="0.3s" begin="0.2s" fill="freeze"/>
+</text>
+
+<!-- Project cards - Row 1 -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.4s" fill="freeze"/>
+  <rect x="40" y="60" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="40" y="60" width="3" height="50" rx="1" fill="#00ff88"/>
+  <text x="58" y="82" font-size="12" font-weight="bold" fill="#00ff88" font-family="monospace">api-runner</text>
+  <text x="58" y="98" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Postman-style bulk API runner</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.5s" fill="freeze"/>
+  <rect x="430" y="60" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="430" y="60" width="3" height="50" rx="1" fill="#58a6ff"/>
+  <text x="448" y="82" font-size="12" font-weight="bold" fill="#58a6ff" font-family="monospace">key-certificate-matcher</text>
+  <text x="448" y="98" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Match keys with certificates for TLS</text>
+</g>
+
+<!-- Row 2 -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.6s" fill="freeze"/>
+  <rect x="40" y="125" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="40" y="125" width="3" height="50" rx="1" fill="#f0883e"/>
+  <text x="58" y="147" font-size="12" font-weight="bold" fill="#f0883e" font-family="monospace">jwt-decoder</text>
+  <text x="58" y="163" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Decode and inspect JWT tokens</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.7s" fill="freeze"/>
+  <rect x="430" y="125" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="430" y="125" width="3" height="50" rx="1" fill="#bc8cff"/>
+  <text x="448" y="147" font-size="12" font-weight="bold" fill="#bc8cff" font-family="monospace">curl-converter</text>
+  <text x="448" y="163" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Convert cURL commands to code</text>
+</g>
+
+<!-- Row 3 -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8s" fill="freeze"/>
+  <rect x="40" y="190" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="40" y="190" width="3" height="50" rx="1" fill="#39d353"/>
+  <text x="58" y="212" font-size="12" font-weight="bold" fill="#39d353" font-family="monospace">json-formatter</text>
+  <text x="58" y="228" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Format and validate JSON</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9s" fill="freeze"/>
+  <rect x="430" y="190" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="430" y="190" width="3" height="50" rx="1" fill="#f778ba"/>
+  <text x="448" y="212" font-size="12" font-weight="bold" fill="#f778ba" font-family="monospace">regex-tester</text>
+  <text x="448" y="228" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Test regex patterns with live matching</text>
+</g>
+
+<!-- Row 4 -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.0s" fill="freeze"/>
+  <rect x="40" y="255" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="40" y="255" width="3" height="50" rx="1" fill="#79c0ff"/>
+  <text x="58" y="277" font-size="12" font-weight="bold" fill="#79c0ff" font-family="monospace">hash-generator</text>
+  <text x="58" y="293" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Generate MD5, SHA-1, SHA-256 hashes</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.1s" fill="freeze"/>
+  <rect x="430" y="255" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="430" y="255" width="3" height="50" rx="1" fill="#ffa657"/>
+  <text x="448" y="277" font-size="12" font-weight="bold" fill="#ffa657" font-family="monospace">base64-tool</text>
+  <text x="448" y="293" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Encode and decode Base64 strings</text>
+</g>
+
+<!-- Row 5 -->
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.2s" fill="freeze"/>
+  <rect x="40" y="320" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="40" y="320" width="3" height="50" rx="1" fill="#d2a8ff"/>
+  <text x="58" y="342" font-size="12" font-weight="bold" fill="#d2a8ff" font-family="monospace">url-encoder</text>
+  <text x="58" y="358" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Encode and decode URLs</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.3s" fill="freeze"/>
+  <rect x="430" y="320" width="390" height="50" rx="4" fill="#0d1117" stroke="#1a2332"/>
+  <rect x="430" y="320" width="3" height="50" rx="1" fill="#56d4dd"/>
+  <text x="448" y="342" font-size="12" font-weight="bold" fill="#56d4dd" font-family="monospace">color-converter</text>
+  <text x="448" y="358" font-size="10" fill="#8b949e" font-family="system-ui,sans-serif">Convert HEX, RGB, HSL colors</text>
+</g>
+
+</svg>
