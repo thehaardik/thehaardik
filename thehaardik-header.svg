@@ -93,7 +93,7 @@
 </line>
 
 <!-- Info panel -->
-<rect x="60" y="135" width="740" height="115" rx="4" fill="#0d1117" stroke="#1a2332" opacity="0">
+<rect x="60" y="135" width="740" height="135" rx="4" fill="#0d1117" stroke="#1a2332" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.7s" fill="freeze"/>
 </rect>
 
@@ -114,26 +114,26 @@
 <g font-size="11" font-family="monospace">
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="0.9s" fill="freeze"/>
-    <rect x="75" y="165" width="3" height="12" fill="#00ff88"/>
-    <text x="88" y="175" fill="#00ff88">ROLE</text>
+    <rect x="75" y="175" width="3" height="12" fill="#00ff88"/>
+    <text x="88" y="185" fill="#00ff88">ROLE</text>
     <text x="150" y="175" fill="#c9d1d9" font-family="system-ui,sans-serif">Technical Program Manager @ Kodo</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.1s" fill="freeze"/>
-    <rect x="75" y="188" width="3" height="12" fill="#58a6ff"/>
-    <text x="88" y="198" fill="#58a6ff">STACK</text>
+    <rect x="75" y="198" width="3" height="12" fill="#58a6ff"/>
+    <text x="88" y="208" fill="#58a6ff">STACK</text>
     <text x="150" y="198" fill="#c9d1d9" font-family="system-ui,sans-serif">Python, Node.js, SQL, REST APIs, AI Agents</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.3s" fill="freeze"/>
-    <rect x="75" y="211" width="3" height="12" fill="#f0883e"/>
-    <text x="88" y="221" fill="#f0883e">DOMAIN</text>
+    <rect x="75" y="221" width="3" height="12" fill="#f0883e"/>
+    <text x="88" y="231" fill="#f0883e">DOMAIN</text>
     <text x="150" y="221" fill="#c9d1d9" font-family="system-ui,sans-serif">Fixed Income, Credit Cards, Prepaid Instruments</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.5s" fill="freeze"/>
-    <rect x="75" y="234" width="3" height="12" fill="#bc8cff"/>
-    <text x="88" y="244" fill="#bc8cff">INFRA</text>
+    <rect x="75" y="244" width="3" height="12" fill="#bc8cff"/>
+    <text x="88" y="254" fill="#bc8cff">INFRA</text>
     <text x="150" y="244" fill="#c9d1d9" font-family="system-ui,sans-serif">Banking Infra, Connected Banking, Reconciliation</text>
   </g>
 </g>
