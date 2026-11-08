@@ -1,42 +1,7 @@
 {
   "username": "thehaardik",
-  "fetched_at": "2026-11-07T13:00:22.070449",
+  "fetched_at": "2026-11-08T13:24:42.332901",
   "days": [
-    {
-      "date": "2025-11-02",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-03",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-04",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-05",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-06",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-07",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-11-08",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-09",
       "count": 0,
@@ -1854,14 +1819,19 @@
     },
     {
       "date": "2026-11-07",
+      "count": 8,
+      "level": 4
+    },
+    {
+      "date": "2026-11-08",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total": 920,
-    "current_streak": 112,
-    "longest_streak": 112,
+    "total": 928,
+    "current_streak": 113,
+    "longest_streak": 113,
     "best_day": {
       "date": "2026-04-03",
       "count": 8
@@ -1879,9 +1849,9 @@
       "2026-08": 248,
       "2026-09": 240,
       "2026-10": 248,
-      "2026-11": 48
+      "2026-11": 56
     },
-    "active_days": 115,
+    "active_days": 116,
     "avg_per_active_day": 8.0
   }
 }
