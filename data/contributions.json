@@ -1,6 +1,6 @@
 {
   "username": "thehaardik",
-  "fetched_at": "2026-11-20T15:27:20.283712",
+  "fetched_at": "2026-11-21T14:39:12.925545",
   "days": [
     {
       "date": "2025-11-16",
@@ -1849,14 +1849,19 @@
     },
     {
       "date": "2026-11-20",
+      "count": 8,
+      "level": 4
+    },
+    {
+      "date": "2026-11-21",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total": 1024,
-    "current_streak": 125,
-    "longest_streak": 125,
+    "total": 1032,
+    "current_streak": 126,
+    "longest_streak": 126,
     "best_day": {
       "date": "2026-04-03",
       "count": 8
@@ -1874,9 +1879,9 @@
       "2026-08": 248,
       "2026-09": 240,
       "2026-10": 248,
-      "2026-11": 152
+      "2026-11": 160
     },
-    "active_days": 128,
+    "active_days": 129,
     "avg_per_active_day": 8.0
   }
 }
